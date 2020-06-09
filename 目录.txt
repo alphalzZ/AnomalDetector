@@ -1,0 +1,22 @@
+1.Data Loader
+    1)load AHs/CDF
+    2)Single/Multi
+    3)Normalization
+
+2.Data Saver
+    1).pkl
+    2)xx_log.txt
+    3)各种数据/模型的保存
+
+3.Anomaly Detector
+    1)KNN-base Anomaly detector train/detect
+    2)
+
+4.DNN
+    1)MFI Classifier
+    2)Multi-Subnet Neural Network
+
+5.Config Manager
+    1)HyperParameter
+    2)infile/outfile
+    3)
